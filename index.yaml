@@ -548,4 +548,20 @@ entries:
     urls:
     - https://github.com/helm/charts-repo-actions-demo/releases/download/example-v2-0.2.2/example-v2-0.2.2.tgz
     version: 0.2.2
+  fastapi:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-10-27T12:04:09.881727494Z"
+    description: Meaningful description
+    digest: 334157be14b3bfa28ffed2f75ed06c217534b6976fefa63e61250349978ea232
+    home: https://helm.sh/helm
+    maintainers:
+    - email: dontcontactme@howest.be
+      name: Nathan Segers
+    name: fastapi
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/nathansegers/mlops-helm-demo/releases/download/fastapi-1.0.0/fastapi-1.0.0.tgz
+    version: 1.0.0
 generated: "2019-12-08T02:57:21.985425597Z"
